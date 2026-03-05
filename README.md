@@ -1,2 +1,15 @@
-# QA_API_Test_Project.postman_collection.json
-Postman_QA_project_collection.json
+QA API Testing Project
+
+This repository contains a simple API testing project created using Postman.
+
+Tested endpoints:
+- GET user
+- GET users
+- POST user
+
+API used:
+https://jsonplaceholder.typicode.com
+
+Tools:
+Postman
+Manual API testing
